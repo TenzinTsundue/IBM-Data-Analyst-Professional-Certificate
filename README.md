@@ -3,7 +3,7 @@ IBM Data Analyst Professional Certificate course content and works I did related
 
 >Dec 11 2021
 
-Skills you will gain
+**Skills you will gain**<br>
 `Microsoft Excel`
 `Python Programming`
 `Data Analysis`
@@ -17,7 +17,7 @@ Skills you will gain
 `Pandas` 
 `Numpy`
 
-### 1.Introduction to Data Analytics
+### [1.Introduction to Data Analytics]()
 ### 2.Excel Basics for Data Analysis
 ### 3.Data Visualization and Dashboard with Excel and Congas
 ### 4.Python for Data Science, AI & Development
