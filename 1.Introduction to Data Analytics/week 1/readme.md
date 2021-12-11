@@ -35,11 +35,17 @@ Business Intelligence Analysts<br>
 - Preparing reports and charts
 - Creating appropriate documentation
 
-**A data in the life of a Data Analyst**
+**A day in the life of a Data Analyst**
 - Acquiring data from varied sources
 - Creating queries for fetching data from data repositories
 - Looking for insights in data
 - Creating reports and dashboards
 - Interacting with stakeholders for gathering information and presenting findings
 - Cleaning and preparing data for analysis
+
+Working hypotheses<br>
+Initial Hypotheses<br>
+
+Applications of data Analytics:
+
 
