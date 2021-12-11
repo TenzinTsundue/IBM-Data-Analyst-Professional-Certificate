@@ -1,7 +1,8 @@
 # IBM-Data-Analyst-Professional-Certificate
 IBM Data Analyst Professional Certificate course content and works I did related to it <br>
-![](https://images.credly.com/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png)
->Dec 11 2021
+<img src="https://images.credly.com/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png" alt="drawing" width="200"/>
+
+>                                                                      Dec 11 2021
 
 **Skills you will gain**<br>
 `Microsoft Excel`
