@@ -17,7 +17,7 @@ IBM Data Analyst Professional Certificate course content and works I did related
 `Pandas` 
 `Numpy`
 
-### [1.Introduction to Data Analytics]()
+### [1.Introduction to Data Analytics](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/1.Introduction%20to%20Data%20Analytics)
 ### 2.Excel Basics for Data Analysis
 ### 3.Data Visualization and Dashboard with Excel and Congas
 ### 4.Python for Data Science, AI & Development
