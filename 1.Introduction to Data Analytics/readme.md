@@ -1,7 +1,7 @@
 # 1.Introduction to Data Analytics
 
 ### Week 1
-[What is Data Analytics]()
+[What is Data Analytics](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/1.Introduction%20to%20Data%20Analytics/week%201)
 ### Week 2
 [The Data Ecosystem]()
 ### Week 3
