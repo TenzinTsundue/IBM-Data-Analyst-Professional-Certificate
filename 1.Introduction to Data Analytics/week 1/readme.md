@@ -46,6 +46,19 @@ Business Intelligence Analysts<br>
 Working hypotheses<br>
 Initial Hypotheses<br>
 
-Applications of data Analytics:
+**Applications of data Analytics:**
+- Transportation
+- Logistic and Delivery
+- Web search or Internet web results
+- Manufacturing
+- Security
+- Education 
+- Healthcare
+- Militery
 
+**Ways to use Data Analyttics:**
+- Improve decision making
+- More effective marketing
+- Better customer service 
+- More effecitve operation
 
