@@ -5,7 +5,7 @@
 ### Week 2
 [The Data Ecosystem](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/1.Introduction%20to%20Data%20Analytics/week%202)
 ### Week 3
-[Gathering and Wrangling Data]()
+[Gathering and Wrangling Data](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/1.Introduction%20to%20Data%20Analytics/week%203)
 ### Week 4
 [Mining & Visualizing Data and Communicating Results]()
 ### Week 5
