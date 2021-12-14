@@ -36,5 +36,18 @@ Data Analyst’s ecosystem includes the infrastructure, software, tools, framewo
 - Unix/Linux Shell/PowerShell and Scripting Languages
 
 
-#### Understanding Data Repositories and Big Data Platforms
+#### Understanding Data Repositories and Big Data Platforms<br>
 
+Data Repository is a general term used to refer to data that has been collected, organized, and isolated for use in business operations  axdminded for reporting and data analysis.
+
+**RDBMS**<br>
+**NoSQL**<br>
+
+- Data Marts:
+- Data lake:
+- ETL:
+- Data Pipeline:<br>
+
+**Foundatiaon of Big Data**<br>
+
+**Big data processing tools**<br>
