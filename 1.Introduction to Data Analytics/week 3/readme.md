@@ -25,4 +25,29 @@ Gathering Data<br>
 - Data Exchange platforms, <br>
 
 
-Wrangling Data<br>
+*Wrangling Data*<br>
+> Data wrangling, also known as data munging, is an iterative process that involves data exploration, transformation, validation, and making it available for a credible and meaningful analysis
+1. Discovery
+2. Transformation: Structuring, Normalizing and Denormalizing Data, Cleaning Data and Enriching Data 
+ * Structurally manipulate and combine the data using Joins and Unions.
+* Normalize data, that is, clean the database of unused and redundant data.
+* Denormalize data, that is, combine data from multiple tables into a single table so that it can be queried faster. 
+* Clean data, which involves profiling data to uncover quality issues, visualizing data to spot outliers, and fixing issues such as missing values, duplicate data, irrelevant data, inconsistent formats, syntax errors, and outliers.
+* Enrich data, which involves considering additional data points that could add value to the existing data set and lead to a more meaningful analysis.
+
+3. Validation
+4. Publishing
+
+*Tools for Data Wrangling*
+* Excel Power Query/ Spreadsheets
+* OpenRefine
+* Google DataPrep
+* Watson Studio Refinery: IBM
+* Trifecta Wrangler
+* Python: Numpy and pandas
+* R: Dplyr, Data table, Jsonlite
+
+*Data cleaning workflow:*
+1. Inspection 
+2. Cleaning
+3. Verification
