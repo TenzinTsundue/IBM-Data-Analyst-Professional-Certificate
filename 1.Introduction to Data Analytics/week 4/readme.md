@@ -34,3 +34,23 @@
 * R Language: tm and twitteR
 * Python: Pandas and Numpy
 * SAS
+
+*Communicating and Sharing data analysis findings*
+* Story
+* Data
+* Visualization
+
+*Data Visualization*
+> Data Visualization is the decline of communicating information through the use of visual elements such as graphs, charts and maps. Its goal is to make information easy to comprehend, interpret and retain.
+* Bar Charts: great for comparing related data sets or parts of a whole
+* Column Charts: compare value side-by-side
+* Pie Charts: show the breakdown an entity into its sub-parts and the proportion of the sub-parts in relations to one another.
+* Dashboards: Organize and display reports and visualizations coming from multiple data sources into a single graphical interface.
+
+*Visualization and Dashboarding Software*
+* Spreadsheets: Microsoft excel and Google sheets
+* Jupyter Notebook and Python libraries
+* R-Studio and R-Shiny
+* IBM Cognos Analytics
+* Tableau
+* Microsoft Power BI
