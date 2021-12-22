@@ -9,4 +9,4 @@
 ### Week 4
 [Mining & Visualizing Data and Communicating Results](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/1.Introduction%20to%20Data%20Analytics/week%204)
 ### Week 5
-[Career opportunities and Data Analysis in Action]()
+[Career opportunities and Data Analysis in Action](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/1.Introduction%20to%20Data%20Analytics/week%205)
