@@ -19,3 +19,17 @@
 * Compliance
  
 > *GDPR* : The General Data Protection Regulation is a regulation specific to the European Union. 
+
+*Cleaning Data*
+
+*Removing Duplicated or Inaccurate Data and Empty Rows*
+* How to dal with inaccurate data: Review->Spelling
+* How to remove empty rows: Sort->Blank
+* How to remove duplicated data: Conditional formatting->Duplicated value
+
+*Dealing with inconsistencies  in data*
+* Case: `=PROPER(A1)`  `=UPPER(text)`  `=LOWER(text)`then paste value
+* `TRIM(text)` to remove space from the beginning
+* Search and replace: two space with one
+
+* Flash fill and Text to Columns
