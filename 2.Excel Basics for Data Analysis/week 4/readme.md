@@ -21,3 +21,10 @@
 *Using VLOOKUP and HLOOKUP functions*
 `=VLOOKUP(lookup_value,table_array,col_index_num,TRUE/FALSE)`
 `=VLOOKUP(B3,A2:B12,2,FALSE)`
+
+*Using Pivot Tables*
+* Recommended Pivot Tables
+* Filters
+* Slicers 
+* Timelines
+
