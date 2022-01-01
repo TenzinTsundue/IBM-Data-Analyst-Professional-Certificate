@@ -7,6 +7,6 @@
 ### Week 3
 [Python Programming fundamentals](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/4.Python%20for%20Data%20Science%2C%20AI%20%26%20Development/week%203)
 ### Week 4
-[Working with data in Python]()
+[Working with data in Python](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/4.Python%20for%20Data%20Science%2C%20AI%20%26%20Development/week%204)
 ### Week 5
 [API and Data collection]()
