@@ -19,3 +19,18 @@
  *API Keys*: It’s a code used to identify and authenticate an application or user. 
 *Endpoint*: Is the one end of the communication channel. When API interacts with another system, the touchpoint of this communication are considered endpoints.
 
+*REST APIs & HTTP Requests*
+
+HTTP: Hypertext Transfer Protocol
+Request : You/Client -> Web Server
+Response: Web Server -> You/Client  (Rescores)
+URL:Uniform Resource Locator
+`Scheme | Internet address or Base URL | Route`
+`http:// | www.github.com | /tenzintsundue/project.html`
+
+Status Code
+HTTP Methods
+
+Get request
+Post request
+
