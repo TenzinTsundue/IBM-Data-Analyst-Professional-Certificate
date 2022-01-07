@@ -28,9 +28,65 @@ URL:Uniform Resource Locator
 `Scheme | Internet address or Base URL | Route`
 `http:// | www.github.com | /tenzintsundue/project.html`
 
+*3 parts to response message*
+1. Status line
+2. Header
+3. Body
+
 Status Code
 HTTP Methods
 
 Get request
 Post request
+
+*HTML for Webscraping*
+>  
+
+Beautiful soup abject
+
+```python 
+import request
+from bs4 import BeautifulSoup
+
+page = requests.get("http://websiteURL...).text
+
+#Creat a BeaufifulSoup object
+soup = BeautifulSoup(page, "html.parser")
+
+# Pulls all instance of <a> tag
+artists = soup.find_all('a')
+
+#Clears data of all tags
+for artist in artists:
+    names = artist.contents[0]
+    fullLink = artist.get('href')
+    print(names)
+    print(fullLink)
+```
+
+*Working with different file formats*
+* csv:
+```
+import pandas as pd
+file = "FileExample.csv"
+df = pd.read_csv(file)
+```  
+* xml
+```
+import pandas as pd
+import xml.etree.ElementTree as etree
+tree = etree.parse("fileExample.xml")
+root = tree.getroot()
+columns = ["Name", "Phone Number", "Brthdat"]
+df = pd.DataFrame(columns = columns)
+```
+* json:
+```
+import json
+with open('fileSample.json', 'r') as openfile:
+    json_object = json.load(openfile)
+print(json_object)
+```
+* xlsx
+
 
