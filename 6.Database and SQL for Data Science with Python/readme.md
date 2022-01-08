@@ -2,7 +2,7 @@
 
 
 ### Week 1
-[Getting Started with SQL]()
+[Getting Started with SQL](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/6.Database%20and%20SQL%20for%20Data%20Science%20with%20Python/week%201)
 ### Week 2
 [Introduction to Relational Databases and Tables]()
 ### Week 3
