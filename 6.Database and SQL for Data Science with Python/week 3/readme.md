@@ -69,3 +69,35 @@ select country, count(country)
 	group by country
 	having count(country) > 4
 ```
+*Built-in Database Functions*
+*Aggregate or Column Functions*
+* Collection of values (e.g. entire column)
+* Output; Single value
+* Examples: SUM(), MIN(), MAX(), AVG(), etc.
+*Scalar and String functions*
+* Scalar: Perform operations on every input values
+* Examples: ROUND(), LENGTH(), UCASE, LCASE
+
+*Data and Time Built-in Functions*
+Most databases contain special datatypes for dates and times.
+
+*Sub-queries and Nested Selects*
+Sub-query: A query inside another query
+```
+select COLUMN1 from TABLE
+	where COLUMN2 = (select MAX (COLUMN2) from TABLE) 
+```
+```
+select EMP_ID, SALARY,
+	(select AVG(SALARY) from employees)
+		AS AVG_SALARY
+	from employees;
+```
+
+*Working with Multiple Tables*
+Accessing Multiple Tables with Sub-queries
+```
+select * from employees
+	where DEP_ID IN
+	(select DEPT_ID_DEP from departments);
+```
