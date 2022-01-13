@@ -8,7 +8,7 @@
 ### Week 3
 [Intermediate SQL](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/6.Database%20and%20SQL%20for%20Data%20Science%20with%20Python/week%203)
 ### Week 4
-[Accessing Databases using Python]()
+[Accessing Databases using Python](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/6.Database%20and%20SQL%20for%20Data%20Science%20with%20Python/week%204)
 ### Week 5
 [Course Assignment]()
 ### Week 6
