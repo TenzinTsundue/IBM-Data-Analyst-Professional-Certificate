@@ -7,7 +7,7 @@
 ### Week 3
 [Explotary Data Analysis](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/7.Data%20Analysis%20with%20Python/week%203)
 ### Week 4
-[Model Development]()
+[Model Development](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/7.Data%20Analysis%20with%20Python/week%204)
 ### Week 5
 [Model Evaluation]()
 ### Week 6
