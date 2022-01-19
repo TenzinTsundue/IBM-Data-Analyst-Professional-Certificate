@@ -13,3 +13,5 @@
 
 ### Certificate
 <image src="https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/blob/main/4.Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Coursera%20NW3DT45W74XD.pdf">
+<object data="https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/blob/main/4.Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Coursera%20NW3D" type="application/pdf" width=100%>
+  </object>
