@@ -12,4 +12,4 @@
 [API and Data collection](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/4.Python%20for%20Data%20Science%2C%20AI%20%26%20Development/week%205)
 
 ### Certificate
-<img src="https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/blob/main/4.Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Coursera%20NW3DT45W74XD.pdf">
+<image src="https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/blob/main/4.Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Coursera%20NW3DT45W74XD.pdf">
