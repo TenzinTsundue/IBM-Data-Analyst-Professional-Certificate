@@ -24,5 +24,5 @@ IBM Data Analyst Professional Certificate course content and works I did related
 ### [5.Python Project for Data Science](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/5.Python%20Project%20for%20Data%20Science)
 ### [6.Database and SQL for Data Science with Python](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/6.Database%20and%20SQL%20for%20Data%20Science%20with%20Python)
 ### [7.Data Analysis with Python](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/7.Data%20Analysis%20with%20Python)
-### 8.Data Visualization with Python
+### [8.Data Visualization with Python](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/8.Data%20Visualization%20with%20Python)
 ### 9.IBM Data Analyst Capstone Project
