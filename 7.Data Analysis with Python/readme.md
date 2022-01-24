@@ -11,4 +11,4 @@
 ### Week 5
 [Model Evaluation](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/7.Data%20Analysis%20with%20Python/week%205)
 ### Week 6
-[Final Assignment]()
+[Final Assignment](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/7.Data%20Analysis%20with%20Python/week%206)
