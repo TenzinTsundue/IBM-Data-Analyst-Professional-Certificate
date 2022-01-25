@@ -1,6 +1,7 @@
 # WEEK 1
 
-# Introduction to Data Visualization Tools
+*Introduction to Data Visualization Tools*
+
 * For exploratory data analysis
 * Communicate data clearly
 * Share unbiased representation of data
