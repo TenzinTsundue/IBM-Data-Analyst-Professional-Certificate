@@ -9,4 +9,4 @@
 ### Week 4
 [Creating Dashboards with Plotly and Dash](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/8.Data%20Visualization%20with%20Python/week%204)
 ### Week 5
-[Final Project]()
+[Final Project](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/8.Data%20Visualization%20with%20Python/week%205)
