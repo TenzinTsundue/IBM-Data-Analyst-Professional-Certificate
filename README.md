@@ -1,4 +1,4 @@
-# IBM-Data-Analyst-Professional-Certificate <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+# IBM-Data-Analyst-Professional-Certification <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 IBM Data Analyst Professional Certificate course content and works I did related to it <br>
 >Dec 11 2021
 <img src="https://images.credly.com/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png" alt="drawing" width="200"/>
