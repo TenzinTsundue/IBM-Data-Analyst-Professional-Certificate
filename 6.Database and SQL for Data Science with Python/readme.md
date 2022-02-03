@@ -1,5 +1,6 @@
 # 6.Database and SQL for Data Science with Python
 
+### [Certificate link](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/blob/main/6.Database%20and%20SQL%20for%20Data%20Science%20with%20Python/Databases%20and%20SQL%20for%20Data%20Science%20with%20python.pdf)
 
 ### Week 1
 [Getting Started with SQL](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/6.Database%20and%20SQL%20for%20Data%20Science%20with%20Python/week%201)
