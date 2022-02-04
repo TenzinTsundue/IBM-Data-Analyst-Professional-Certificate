@@ -1,5 +1,6 @@
 # 8.Data Visualization with Python
 
+### [Certificate link](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/blob/main/8.Data%20Visualization%20with%20Python/Data%20Visualization%20with%20Python.pdf)
 ### Week 1
 [Introduction to Data Visualization Tools](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/blob/main/8.Data%20Visualization%20with%20Python/week%201/readme.md)
 ### Week 2
