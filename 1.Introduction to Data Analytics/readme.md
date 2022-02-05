@@ -1,6 +1,6 @@
 # 1.Introduction to Data Analytics
 
-###[Certificate Link](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/blob/main/1.Introduction%20to%20Data%20Analytics/Introduction%20to%20Data%20Analytics.pdf)
+### [Certificate Link](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/blob/main/1.Introduction%20to%20Data%20Analytics/Introduction%20to%20Data%20Analytics.pdf)
 
 ### Week 1
 [What is Data Analytics](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/1.Introduction%20to%20Data%20Analytics/week%201)
