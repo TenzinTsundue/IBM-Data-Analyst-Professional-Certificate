@@ -1,6 +1,6 @@
 # 9.IBM Data Analyst Capstone Project
 
-### [Certificate Link]()
+### [Certificate Link](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/blob/main/9.IBM%20Data%20Analyst%20Capstone%20Project/IBM%20Data%20Analyst%20Capstone%20Project.pdf)
 
 ### Week 1
 [Data Collection](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/9.IBM%20Data%20Analyst%20Capstone%20Project/week%201)
