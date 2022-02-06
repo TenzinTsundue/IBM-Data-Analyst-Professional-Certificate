@@ -11,6 +11,6 @@
 ### Week 4
 [Data Visualization](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/9.IBM%20Data%20Analyst%20Capstone%20Project/week%204)
 ### Week 5
-[Building A Dash board]()
+[Building A Dash board](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/9.IBM%20Data%20Analyst%20Capstone%20Project/week%205)
 ### Week 6
 [Final Assignment: Present your findings]()
