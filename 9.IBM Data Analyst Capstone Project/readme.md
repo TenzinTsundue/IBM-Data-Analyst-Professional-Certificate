@@ -9,7 +9,7 @@
 ### Week 3
 [Exploratory Data Analysis](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/9.IBM%20Data%20Analyst%20Capstone%20Project/week%203)
 ### Week 4
-[Data Visualization]()
+[Data Visualization](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/9.IBM%20Data%20Analyst%20Capstone%20Project/week%204)
 ### Week 5
 [Building A Dash board]()
 ### Week 6
