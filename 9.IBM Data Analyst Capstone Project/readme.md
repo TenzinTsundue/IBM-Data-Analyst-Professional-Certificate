@@ -7,7 +7,7 @@
 ### Week 2
 [Data Wrangling](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/9.IBM%20Data%20Analyst%20Capstone%20Project/week%202)
 ### Week 3
-[Exploratory Data Analysis]()
+[Exploratory Data Analysis](https://github.com/TenzinTsundue/IBM-Data-Analyst-Professional-Certificate/tree/main/9.IBM%20Data%20Analyst%20Capstone%20Project/week%203)
 ### Week 4
 [Data Visualization]()
 ### Week 5
